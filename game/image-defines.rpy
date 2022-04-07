@@ -1,4 +1,5 @@
 # Declare character art below this line, using the image statement.
+## character name - outfit - pose - transition fx
 
 ## Layered images for normal standing poses
 
